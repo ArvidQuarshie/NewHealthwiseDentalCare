@@ -17,7 +17,7 @@ font-family: 'Indie+Flower',sans-serif;
      height:100%;
     width:100%;
     background-color: white;
-    background-image:url(../images/services.jpg);
+/*    background-image:url(../images/services.jpg);*/
     background-repeat: no-repeat;
     background-size: cover;
 }
