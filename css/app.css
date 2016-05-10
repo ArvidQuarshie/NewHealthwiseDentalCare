@@ -1,4 +1,6 @@
-body{ height:100%;}
+body,h1,h2,h3,h4,h5{ height:100%;
+font-family: 'Indie+Flower',sans-serif;
+}
 
 .landing{
     height:100%;
@@ -14,10 +16,14 @@ body{ height:100%;}
 .services{
      height:100%;
     width:100%;
-    background-color: red;
+    background-color: white;
+    background-image:url(../images/services.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .contact{
      height:100%;
     width:100%;
-    background-color: yellow;
+    background-color: white;
+
 }
