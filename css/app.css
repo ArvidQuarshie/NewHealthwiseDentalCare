@@ -3,16 +3,21 @@ body{ height:100%;}
 .landing{
     height:100%;
     width:100%;
+    background-color: aqua;
 }
 .about{
      height:100%;
     width:100%;
+    background-color: black;
+
 }
 .services{
      height:100%;
     width:100%;
+    background-color: red;
 }
 .contact{
      height:100%;
     width:100%;
+    background-color: yellow;
 }
